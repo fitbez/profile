@@ -1,5 +1,13 @@
-$primary-color: #444;
+$primary-color: #f4f4f4;
+
+* {
+  box-sizing: border-box;
+}
 
 body {
   background: $primary-color;
+  height: 100%;
+  margin: 0;
+  font-family: "Source Code Pro", monospace;
+  line-height: 1.5;
 }

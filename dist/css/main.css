@@ -1,2 +1,9 @@
+* {
+  box-sizing: border-box; }
+
 body {
-  background: #444; }
+  background: #f4f4f4;
+  height: 100%;
+  margin: 0;
+  font-family: "Source Code Pro", monospace;
+  line-height: 1.5; }
